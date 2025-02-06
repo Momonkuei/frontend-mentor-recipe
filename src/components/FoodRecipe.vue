@@ -15,7 +15,7 @@
 					</h1>
 				</div>
 				<div>
-					<span class="font-outfit"
+					<span class="font-outfit text-design-stone-600 leading-snug"
 						>An easy and quick dish, perfect for any meal. This
 						classic omelette combines beaten eggs cooked to
 						perfection, optionally filled with your choice of
@@ -236,59 +236,61 @@
 				</div>
 
 				<table>
-					<tr
-						class="border-b border-design-stone-150 grid grid-cols-2 p-4"
-					>
-						<td data-cell="nutrient" class="font-outfit pl-4">
-							Calories
-						</td>
-						<td
-							data-cell-value="nutrient"
-							class="font-outfit font-bold text-design-brown-800 pl-4"
+					<tbody>
+						<tr
+							class="border-b border-design-stone-150 grid grid-cols-2 p-4"
 						>
-							277kcal
-						</td>
-					</tr>
+							<td data-cell="nutrient" class="font-outfit pl-4">
+								Calories
+							</td>
+							<td
+								data-cell-value="nutrient"
+								class="font-outfit font-bold text-design-brown-800 pl-4"
+							>
+								277kcal
+							</td>
+						</tr>
 
-					<tr
-						class="border-b border-design-stone-150 grid grid-cols-2 p-4"
-					>
-						<td data-cell="nutrient" class="font-outfit pl-4">
-							Carbs
-						</td>
-						<td
-							data-cell="nutrient-value"
-							class="font-outfit font-bold text-design-brown-800 pl-4"
+						<tr
+							class="border-b border-design-stone-150 grid grid-cols-2 p-4"
 						>
-							0g
-						</td>
-					</tr>
+							<td data-cell="nutrient" class="font-outfit pl-4">
+								Carbs
+							</td>
+							<td
+								data-cell="nutrient-value"
+								class="font-outfit font-bold text-design-brown-800 pl-4"
+							>
+								0g
+							</td>
+						</tr>
 
-					<tr
-						class="border-b border-design-stone-150 grid grid-cols-2 p-4"
-					>
-						<td data-cell="nutrient" class="font-outfit pl-4">
-							Protein
-						</td>
-						<td
-							data-cell="nutrient-value"
-							class="font-outfit font-bold text-design-brown-800 pl-4"
+						<tr
+							class="border-b border-design-stone-150 grid grid-cols-2 p-4"
 						>
-							20g
-						</td>
-					</tr>
+							<td data-cell="nutrient" class="font-outfit pl-4">
+								Protein
+							</td>
+							<td
+								data-cell="nutrient-value"
+								class="font-outfit font-bold text-design-brown-800 pl-4"
+							>
+								20g
+							</td>
+						</tr>
 
-					<tr class="grid grid-cols-2 p-4">
-						<td data-cell="nutrient" class="font-outfit pl-4">
-							Fat
-						</td>
-						<td
-							data-cell="nutrient-value"
-							class="font-outfit font-bold text-design-brown-800 pl-4"
-						>
-							22g
-						</td>
-					</tr>
+						<tr class="grid grid-cols-2 p-4">
+							<td data-cell="nutrient" class="font-outfit pl-4">
+								Fat
+							</td>
+							<td
+								data-cell="nutrient-value"
+								class="font-outfit font-bold text-design-brown-800 pl-4"
+							>
+								22g
+							</td>
+						</tr>
+					</tbody>
 				</table>
 			</section>
 		</div>
