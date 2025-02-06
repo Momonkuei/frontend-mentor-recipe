@@ -83,28 +83,34 @@
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
 						></span>
-						<span class="font-outfit">2-3 large eggs</span>
+						<span class="font-outfit text-design-stone-600"
+							>2-3 large eggs</span
+						>
 					</div>
 
 					<div class="pl-10 relative">
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
 						></span>
-						<span class="font-outfit">Salt, to taste</span>
+						<span class="font-outfit text-design-stone-600"
+							>Salt, to taste</span
+						>
 					</div>
 
 					<div class="pl-10 relative">
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
 						></span>
-						<span class="font-outfit">Pepper, to taste</span>
+						<span class="font-outfit text-design-stone-600"
+							>Pepper, to taste</span
+						>
 					</div>
 
 					<div class="pl-10 relative">
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
 						></span>
-						<span class="font-outfit"
+						<span class="font-outfit text-design-stone-600"
 							>1 tablespoon of butter or oil</span
 						>
 					</div>
@@ -113,7 +119,7 @@
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
 						></span>
-						<span class="font-outfit"
+						<span class="font-outfit text-design-stone-600"
 							>Optional fillings: cheese, diced vegetables, cooked
 							meats, herbs</span
 						>
@@ -139,12 +145,11 @@
 					<ol
 						class="list-decimal marker:text-design-brown-800 marker:font-bold pl-6 flex flex-col gap-4"
 					>
-						<li class="pl-4">
-							<span
-								class="text-design-stone-600 font-outfit font-bold"
-								>Beat the eggs:</span
-							>
-							<span class="font-outfit"
+						<li
+							class="pl-4 font-outfit text-design-stone-600 leading-normal"
+						>
+							<span class="font-bold">Beat the eggs:</span>
+							<span class=""
 								>In a bowl, beat the eggs with a pinch of salt
 								and pepper until they are well mixed. You can
 								add a tablespoon of water or milk for a fluffier
@@ -152,35 +157,34 @@
 							>
 						</li>
 
-						<li class="pl-4">
-							<span
-								class="text-design-stone-600 font-outfit font-bold"
-								>Heat the pan:</span
-							>
-							<span class="font-outfit"
+						<li
+							class="pl-4 font-outfit text-design-stone-600 leading-normal"
+						>
+							<span class="font-bold">Heat the pan:</span>
+							<span class=""
 								>Place a non-stick frying pan over medium heat
 								and add butter or oil.</span
 							>
 						</li>
 
-						<li class="pl-4">
-							<span
-								class="text-design-stone-600 font-outfit font-bold"
-								>Cook the omelette:</span
-							>
-							<span class="font-outfit"
+						<li
+							class="pl-4 font-outfit text-design-stone-600 leading-normal"
+						>
+							<span class="font-bold">Cook the omelette:</span>
+							<span class=""
 								>Once the butter is melted and bubbling, pour in
 								the eggs. Tilt the pan to ensure the eggs evenly
 								coat the surface.</span
 							>
 						</li>
 
-						<li class="pl-4">
-							<span
-								class="text-design-stone-600 font-outfit font-bold"
+						<li
+							class="pl-4 text-design-stone-600 font-outfit leading-normal"
+						>
+							<span class="font-bold"
 								>Add fillings (optional):</span
 							>
-							<span class="font-outfit"
+							<span class=""
 								>When the eggs begin to set at the edges but are
 								still slightly runny in the middle, sprinkle
 								your chosen fillings over one half of the
@@ -188,12 +192,11 @@
 							>
 						</li>
 
-						<li class="pl-4">
-							<span
-								class="text-design-stone-600 font-outfit font-bold"
-								>Fold and serve:</span
-							>
-							<span class="font-outfit"
+						<li
+							class="pl-4 text-design-stone-600 font-outfit leading-normal"
+						>
+							<span class="font-bold">Fold and serve:</span>
+							<span class=""
 								>As the omelette continues to cook, carefully
 								lift one edge and fold it over the fillings. Let
 								it cook for another minute, then slide it onto a
@@ -201,12 +204,11 @@
 							>
 						</li>
 
-						<li class="pl-4">
-							<span
-								class="text-design-stone-600 font-outfit font-bold"
-								>Enjoy:</span
-							>
-							<span class="font-outfit"
+						<li
+							class="pl-4 text-design-stone-600 font-outfit leading-normal"
+						>
+							<span class="font-bold">Enjoy:</span>
+							<span class=" "
 								>Serve hot, with additional salt and pepper if
 								needed.</span
 							>
