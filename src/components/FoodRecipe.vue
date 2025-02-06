@@ -33,7 +33,7 @@
 					>
 				</div>
 				<div class="flex flex-col gap-4">
-					<div class="pl-10 relative max-w-[14rem]">
+					<div class="pl-10 relative max-w-[14rem] md:max-w-full">
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
 						></span>
@@ -46,7 +46,7 @@
 						>
 					</div>
 
-					<div class="pl-10 relative max-w-[14rem]">
+					<div class="pl-10 relative max-w-[14rem] md:max-w-full">
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
 						></span>
@@ -57,7 +57,7 @@
 						<span class="font-outfit">5 minutes</span>
 					</div>
 
-					<div class="pl-10 relative max-w-[14rem]">
+					<div class="pl-10 relative max-w-[14rem] md:max-w-full">
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
 						></span>
