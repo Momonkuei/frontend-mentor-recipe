@@ -32,7 +32,7 @@
 						>Preparation time</span
 					>
 				</div>
-				<div class="flex flex-col gap-4">
+				<div class="flex flex-col gap-2">
 					<div class="pl-10 relative max-w-[14rem] md:max-w-full">
 						<span
 							class="w-[0.25rem] h-[0.25rem] rounded-full bg-design-brown-800 inline-block absolute top-[50%] left-2 -translate-y-1/2"
